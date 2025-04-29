@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 model = ChatGoogleGenerativeAI(model="gemini-1.5-pro")
-st.set_page_config(page_title="HeyDoc Bot", page_icon="🤖", layout="centered")
+st.set_page_config(page_title="CHINTU BOLAAA !!!", page_icon="🤖", layout="centered")
 
 # App Title
 st.markdown("<h1 style='text-align: center; color: #00b8e6;'>🤖 HEYDOC BOT</h1>", unsafe_allow_html=True)
